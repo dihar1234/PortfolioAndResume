@@ -4,18 +4,6 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-  .profile {
-    width: 100px; /* Set the desired width */
-    height: 100px; /* Set the desired height, making it a square */
-    overflow: hidden; /* Ensure that any content exceeding the dimensions is hidden */
-    border-radius: 50%; /* Optional: Add a border-radius for a rounded appearance */
-    
-    /* Positioning properties */
-    position: fixed;
-    top: 50%; /* Optional: Adjust the top position */
-    transform: translateY(-50%);
-    right: 0;
-  }
 html {
 	font-size: 10px;
 	font-family: 'Montserrat', sans-serif;
