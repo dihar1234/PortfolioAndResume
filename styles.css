@@ -16,12 +16,6 @@
     transform: translateY(-50%);
     right: 0;
   }
-
-  .profile img {
-    width: 20%; /* Make the image fill the entire width of its container */
-    height: 20%; /* Maintain the image's aspect ratio */
-    display: block; /* Remove extra space below the image */
-  }
 html {
 	font-size: 10px;
 	font-family: 'Montserrat', sans-serif;
